@@ -1,0 +1,3 @@
+/home/user/Desktop/chess/CMakeFiles/chess.dir
+/home/user/Desktop/chess/CMakeFiles/edit_cache.dir
+/home/user/Desktop/chess/CMakeFiles/rebuild_cache.dir
